@@ -1,0 +1,21 @@
+table{
+    height: 100px;
+    background:  white;
+    width: 100%;
+}
+
+.Voda{
+    background: orange;
+}
+  
+.Voda1{
+    background: yellow;
+}
+
+.Voda2{
+    background: blue;
+}
+
+.Voda3{
+    background: grey;
+}
